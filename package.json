@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "console": "integrated-terminal",
+  "console": "integratedTerminal",
   "keywords": [],
   "author": "",
   "license": "ISC",
